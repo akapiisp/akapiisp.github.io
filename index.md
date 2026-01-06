@@ -23,6 +23,6 @@ In my free time I like to read, make music or do research. I am interested in ev
 
 
 
-[**Soundcloud page**](https://soundcloud.com/aleksi-piispa-294505003).
+[**Soundcloud page**](https://soundcloud.com/aleksi-piispa-294505003)
 
-[**LinkedIn page**](https://www.linkedin.com/in/aleksi-piispa-66305a155/)).
+[**LinkedIn page**](https://www.linkedin.com/in/aleksi-piispa-66305a155/)
