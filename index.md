@@ -14,6 +14,6 @@ layout: default
 
 [Link to blogposts](./another-page2.html).
 
-# Music
+[# Music](https://soundcloud.com/aleksi-piispa-294505003)
 
-[Link to Soundcloud](https://soundcloud.com/aleksi-piispa-294505003).
+#[Link to Soundcloud](https://soundcloud.com/aleksi-piispa-294505003).
