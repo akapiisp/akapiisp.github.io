@@ -12,11 +12,11 @@ layout: default
 
 # Blogposts
 
-[Link to blogposts](./blogposts.html).
+[Some blogposts](./blogposts.html).
 
 # Music
 
-#[Link to Soundcloud](https://soundcloud.com/aleksi-piispa-294505003).
+#[Link to my Soundcloud page](https://soundcloud.com/aleksi-piispa-294505003).
 
 # CV
 
@@ -24,4 +24,4 @@ layout: default
 
 # LinkedIn
 
-[Link to CV](https://www.linkedin.com/in/aleksi-piispa-66305a155/)).
+[Link to LinkedIn](https://www.linkedin.com/in/aleksi-piispa-66305a155/)).
