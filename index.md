@@ -5,9 +5,9 @@
 #layout: home
 layout: default
 ---
-Hello, my name is Aleksi Piispa and this is my personal webpage. Here I'll be posting various things that interest me. I'll post books that I like and comments on various topics that pique my interest including scientific articles or news.
+Hello, my name is Aleksi Piispa, and this is my personal webpage. Here I share things that interest me: books I enjoy, reflections on topics that catch my attention, and occasional thoughts on scientific articles or current news.
 
-In my free time I like to read, make music or do research. I am interested in everything interesting. The only criterion seems to be that I need to be able to smell that there is something I could contribute to.  
+In my free time, I like to read, make music, and do research. I’m broadly curious and interested in almost anything—as long as I have the sense that there’s something meaningful I could contribute. 
 
 # Books
 
