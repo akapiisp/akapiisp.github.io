@@ -6,14 +6,22 @@
 layout: default
 ---
 
-# CV
+# Books
 
-[Link to CV](./another-page1.html).
+[Books I like](./books.html)
 
 # Blogposts
 
-[Link to blogposts](./another-page2.html).
+[Link to blogposts](./blogposts.html).
 
-[# Music](https://soundcloud.com/aleksi-piispa-294505003)
+# Music
 
 #[Link to Soundcloud](https://soundcloud.com/aleksi-piispa-294505003).
+
+# CV
+
+[Link to CV](./CV.html).
+
+# LinkedIn
+
+[Link to CV](https://www.linkedin.com/in/aleksi-piispa-66305a155/)).
