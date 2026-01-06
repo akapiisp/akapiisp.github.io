@@ -5,3 +5,11 @@
 #layout: home
 layout: default
 ---
+
+# CV
+
+[Link to CV](./another-page1.html).
+
+# Blogposts
+
+[Link to blogposts](./another-page2.html).
