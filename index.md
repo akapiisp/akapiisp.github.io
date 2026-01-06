@@ -10,13 +10,13 @@ layout: default
 
 [Books I like](./books.html)
 
-# Blogposts
+# Posts
 
-[Some blogposts](./blogposts.html).
+[Possible posts](./blogposts.html).
 
 # Music
 
-#[Link to my Soundcloud page](https://soundcloud.com/aleksi-piispa-294505003).
+[Link to my Soundcloud page](https://soundcloud.com/aleksi-piispa-294505003).
 
 # CV
 
